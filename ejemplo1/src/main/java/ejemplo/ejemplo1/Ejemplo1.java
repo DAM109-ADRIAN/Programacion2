@@ -11,6 +11,6 @@ package ejemplo.ejemplo1;
 public class Ejemplo1 {
 
     public static void main(String[] args) {
-        System.out.println("hola Adrian!");
+        System.out.println("Adrian de Diego Fernandez!");
     }
 }
