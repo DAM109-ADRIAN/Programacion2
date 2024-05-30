@@ -1,6 +1,6 @@
 # ***Actividades Conecta***  
 
-#encabezados
+
 [](https://tasks.office.com/educantabria.es/es-es/home/planner/#/plantaskboard?groupid=3fbb2604-a253-49a6-9c33-c0a1afe976e4&planid=0ww7mkzmjkot0iieuxxuqpyah7gg)
 
 ![image](https://github.com/LuisIzquierdoGutierrez/Reto/assets/119076009/229c41aa-5e7e-4ad4-94b0-a1f7a4f72049)
@@ -52,4 +52,4 @@ Nuestro equipo ha desarrollado una aplicación basada en ventanas en Java, dise�
 #### 6. [Cuaderno de Trabajo](Recursos/Cuaderno%20de%20Trabajo.pdf)
 #### 7. [Evolución del trabajo en equipo](https://www.canva.com/design/DAFzzurZga8/TXvq3FxYSsbExyYvvlDU-A/edit?utm_content=DAFzzurZga8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 #### 8. [Bibliografia](Recursos/Documentación/Bibliografía.md)
-[ENCABEZADOS](#encabezados)
+[ENCABEZADOS](#Integrantes)
