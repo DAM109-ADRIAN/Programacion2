@@ -61,4 +61,4 @@ pagina de Google[GOOGLE][2]
 
 
 [1]:https://www.gnu.org/home.es.html "Este es el anlace a GNU"
-[2]:https://www.google.es/?safe=active&ssui=on
+[2]https://www.google.es
