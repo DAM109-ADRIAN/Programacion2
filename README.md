@@ -53,3 +53,4 @@ Nuestro equipo ha desarrollado una aplicación basada en ventanas en Java, dise�
 #### 7. [Evolución del trabajo en equipo](https://www.canva.com/design/DAFzzurZga8/TXvq3FxYSsbExyYvvlDU-A/edit?utm_content=DAFzzurZga8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 #### 8. [Bibliografia](Recursos/Documentación/Bibliografía.md)
 [ENCABEZADOS](#Integrantes)
+<adriandediego@gmail.com>
