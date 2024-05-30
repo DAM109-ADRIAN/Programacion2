@@ -52,5 +52,13 @@ Nuestro equipo ha desarrollado una aplicación basada en ventanas en Java, dise�
 #### 6. [Cuaderno de Trabajo](Recursos/Cuaderno%20de%20Trabajo.pdf)
 #### 7. [Evolución del trabajo en equipo](https://www.canva.com/design/DAFzzurZga8/TXvq3FxYSsbExyYvvlDU-A/edit?utm_content=DAFzzurZga8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 #### 8. [Bibliografia](Recursos/Documentación/Bibliografía.md)
-[ENCABEZADOS](#Integrantes)
-<adriandediego@gmail.com>
+
+página de la organización [GNU][1]
+pagina de Google[GOOGLE][2]
+
+......
+......
+
+
+[1]:https://www.gnu.org/home.es.html "Este es el anlace a GNU"
+[2]:https://www.google.es/?safe=active&ssui=on
