@@ -53,12 +53,5 @@ Nuestro equipo ha desarrollado una aplicación basada en ventanas en Java, dise�
 #### 7. [Evolución del trabajo en equipo](https://www.canva.com/design/DAFzzurZga8/TXvq3FxYSsbExyYvvlDU-A/edit?utm_content=DAFzzurZga8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 #### 8. [Bibliografia](Recursos/Documentación/Bibliografía.md)
 
-página de la organización [GNU][1]
-pagina de Google[GOOGLE][2]
 
-......
-......
-
-
-[1]:https://www.gnu.org/home.es.html "Este es el anlace a GNU"
-[2]https://www.google.es
+![image]((https://www.google.es/url?sa=i&url=https%3A%2F%2Fwww.revistavanityfair.es%2Farticulos%2Flola-indigo-cantante-entrevista-historia&psig=AOvVaw0vJbL4UnYyMCxN1XvRlrWI&ust=1717190754584000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNCGlJmotoYDFQAAAAAdAAAAABAE)
